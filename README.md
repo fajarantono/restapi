@@ -1,6 +1,6 @@
 # restapi
 
-> rwith featherjsestapi with 
+> restapi with featherjs 
 
 ## About
 
